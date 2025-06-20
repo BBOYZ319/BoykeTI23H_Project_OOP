@@ -18,3 +18,4 @@ Cara menjalankan aplikasi : run main.py
 - Lakukan registrasi username dan password
 - Login
 - Uji coba fitur yang ada
+link dokumentasi : https://youtu.be/CuOIu-fWKOA
